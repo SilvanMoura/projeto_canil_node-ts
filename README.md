@@ -6,19 +6,9 @@
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue?style=plastic&logo=Node.js" alt="NodeJS" />
   </a>
-
-  <img src="https://img.shields.io/github/languages/count/luizpedrosm/canil?color=%2304D361" alt="Language count" />
-
-  <img src="https://img.shields.io/github/repo-size/luizpedrosm/canil" alt="Repository size" />
-
-  <img src="https://img.shields.io/github/languages/code-size/luizpedrosm/canil" alt="Code size" />
-
-  <a href="https://github.com/luizpedrosm/canil/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/luizpedrosm/canil">
-  </a>
 	
   <a href="https://www.linkedin.com/in/luizpedrosm">  
-    <img alt="Made by luizpedrosm" src="https://img.shields.io/badge/made%20by-luizpedrosm-blue">
+    <img alt="Made by Silvan Moura" src="https://img.shields.io/badge/made%20by-SilvanMoura-blue">
   </a>  
 </p>
 
@@ -32,7 +22,7 @@ Canil é um app para adoção de Pets. Projeto feito no módulo do curso "Node +
 
 ## 🌐 Web
 
-https://canil.herokuapp.com
+https://rocky-wave-71461.herokuapp.com/
 
 ## 🧱 Tecnologias
 
@@ -40,20 +30,20 @@ https://canil.herokuapp.com
 
 **Servidor:** [Node](https://nodejs.org), [Express](https://expressjs.com), [TypeScript](https://www.typescriptlang.org)
 
-**Controle de Versão:** [Git](https://git-scm.com/), [Gitflow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow), [Gitmoji](https://gitmoji.dev/)
+**Controle de Versão:** [Git](https://git-scm.com/)
 
 ## ✨ Executar localmente
 
 Clone o projeto
 
 ```bash
-git clone https://github.com/LuizPedroSM/canil.git
+git clone https://github.com/SilvanMoura/projeto_canil_node-ts
 ```
 
 Entre na pasta do projeto
 
 ```bash
-cd canil
+cd projeto_canil_node-ts
 ```
 
 Instale as dependências globais
@@ -71,7 +61,7 @@ npm install
 Inicie o servidor
 
 ```bash
-npm run start-dev
+npm run dev
 ```
 
 ## 🚀 Deploy
@@ -82,10 +72,6 @@ git push heroku main
 heroku open
 ```
 
-ou
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LuizPedroSM/canil)
-
 ---
 
-Feito com ❤️ por Silvan Moura: 👋 [Entre em contato](https://www.linkedin.com/in/luizpedrosm/)
+Feito com ❤️ por Silvan Moura: 👋 [Entre em contato](https://www.linkedin.com/in/silvanmoura/)
