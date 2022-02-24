@@ -88,4 +88,4 @@ ou
 
 ---
 
-Feito com ❤️ por Luiz Pedro: 👋 [Entre em contato](https://www.linkedin.com/in/luizpedrosm/)
+Feito com ❤️ por Silvan Moura: 👋 [Entre em contato](https://www.linkedin.com/in/luizpedrosm/)
